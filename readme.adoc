@@ -1,0 +1,3 @@
+= Softask API Types (for Typescript)
+
+Concrete type definitions for the I/O types used by the Softask REST API.

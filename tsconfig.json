@@ -1,0 +1,37 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES6",
+    "sourceMap": true,
+    "allowJs": false,
+    "declaration": true,
+    "declarationMap": true,
+    "downlevelIteration": false,
+    "incremental": true,
+    "jsx": "react",
+    "lib": [
+      "ES6"
+    ],
+    "noEmit": false,
+    "outDir": "build",
+    "removeComments": true,
+    "rootDir": "src/ts",
+    "strict": true,
+    "alwaysStrict": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "strictBindCallApply": true,
+    "strictFunctionTypes": true,
+    "strictNullChecks": true,
+    "strictPropertyInitialization": true,
+    "baseUrl": "src/ts",
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

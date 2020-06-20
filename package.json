@@ -1,0 +1,22 @@
+{
+  "name": "softask-ts-api-types",
+  "version": "1.0.0",
+  "description": "Type definitions for the I/O types used by the Softask REST API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softask-app/lib-ts-api-types.git"
+  },
+  "author": "Softask",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/softask-app/lib-ts-api-types/issues"
+  },
+  "homepage": "https://github.com/softask-app/lib-ts-api-types#readme",
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  }
+}
